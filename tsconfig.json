@@ -9,6 +9,6 @@
     "strict": true,
     "skipLibCheck": true
   },
-  "include": ["**/*"],
-  "exclude": ["./dist"]
+  "include": ["src"],
+  // "exclude": ["./dist"]
 }
